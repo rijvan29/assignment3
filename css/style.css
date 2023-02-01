@@ -1,0 +1,75 @@
+
+		body{
+			font-family: 'Roboto', sans-serif;
+			margin: 0;
+		}
+
+		.portfolio{
+		    width: 800px;
+		    margin: 120px auto;
+		    height: 450px;
+		    text-align: justify;
+		    padding: 60px 50px;
+		    border-radius: 20px;
+		    box-shadow: 0px 0px 20px #123c5f;}
+
+		    iframe{
+		    	margin: auto;
+		    	display: block;
+		    	border-radius: 20px;
+		    	box-shadow: 0px 0px 20px #123c5f;
+		    }
+
+		    h1{
+
+			margin: 0;
+		    text-align: center;
+		    font-size: 40px;
+		    text-transform: uppercase;
+		    color: #649ed1;
+
+		    }
+
+		    p{
+		    	font-size: 20px;
+		    }
+
+		    .color1{
+		    	color: green;
+		    }
+
+		   .color2{
+		   	color: red;
+		   }
+
+		   mark{
+		   	color: white;
+		   	background: black;
+		   	display: inline;
+		   	border-radius: 10px;
+		   }
+		   h2{
+		   	margin: 0;
+		   }
+		   .section1{
+		   	background-color: yellowgreen;
+		   	text-align: center;
+		   	padding: 200px 0px;
+		   	background-image: url(../images/section1.jpg);
+		   	background-position: bottom;
+		   	background-attachment: fixed;
+		   	color: whitesmoke;
+		   	font-size: 50px;
+		   	background-size: cover;
+		   }
+		   	.section2{
+		   	background-color: yellowgreen;
+		   	text-align: center;
+		   	padding: 200px 0px;
+		   	background-image: url(../images/section2.jpg);
+		   	background-position: middle;
+		   	background-attachment: fixed;
+		   	color: lightyellow;
+		   	font-size: 40px;
+		   	background-size: cover;
+		   }
